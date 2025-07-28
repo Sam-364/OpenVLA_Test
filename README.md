@@ -21,8 +21,6 @@ This repository contains a complete implementation of OpenVLA (Open Vision-Langu
 - [Inference](#inference)
 - [Model Architecture](#model-architecture)
 - [Performance](#performance)
-- [Contributing](#contributing)
-- [Citation](#citation)
 
 ## 🏗️ Architecture Overview
 
@@ -315,23 +313,8 @@ We welcome contributions! Please:
 
 This implementation is released under the MIT License.
 
-## 📖 Citation
-
-If you use this implementation in your research, please cite:
-
-```bibtex
-@article{kim24openvla,
-    title={OpenVLA: An Open-Source Vision-Language-Action Model},
-    author={{Moo Jin} Kim and Karl Pertsch and Siddharth Karamcheti and Ted Xiao and Ashwin Balakrishna and Suraj Nair and Rafael Rafailov and Ethan Foster and Grace Lam and Pannag Sanketi and Quan Vuong and Thomas Kollar and Benjamin Burchfiel and Russ Tedrake and Dorsa Sadigh and Sergey Levine and Percy Liang and Chelsea Finn},
-    journal = {arXiv preprint arXiv:2406.09246},
-    year={2024}
-}
-```
-
 ## 🙏 Acknowledgments
 
 This implementation is based on the original OpenVLA research paper and builds upon the work of the robotics and AI communities. Special thanks to the authors of the original paper and the contributors to the open-source ecosystem.
 
 ---
-
-For questions and support, please open an issue on GitHub or contact the maintainers. 
