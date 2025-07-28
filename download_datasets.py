@@ -30,7 +30,7 @@ class DatasetDownloader:
                 'description': 'Large-scale robot manipulation dataset with 60K trajectories',
                 'urls': {
                     'teleop': 'https://rail.eecs.berkeley.edu/datasets/bridge_release/data/teleop_data.zip',
-                    'scripted': 'https://rail.eecs.berkeley.edu/datasets/bridge_release/data/scripted_data.zip'
+                    'scripted': 'https://rail.eecs.berkeley.edu/datasets/bridge_release/data/scripted_6_18.zip'
                 },
                 'size_gb': 45,
                 'format': 'zip',
